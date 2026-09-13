@@ -7,7 +7,6 @@ import androidx.compose.ui.graphics.Color
 object TempoPadColors {
     val PanelInner = Color(0xFFD7D5EE)
     val OnSurface = Color(0xFF16161F)
-    val Hint = Color(0xFF6E6C86)
     val Cursor = Color(0xFF3A3A55)
     val Scrim = Color(0x66000000)
 }
